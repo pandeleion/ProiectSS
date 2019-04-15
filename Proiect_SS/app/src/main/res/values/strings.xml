@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Proiect_SS</string>
+    <string name="buton_adaugaChat">ADD CHAT</string>
+    <string name="buton_send">SEND</string>
+    <string name="intampinare">Bine ai venit </string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_in_ok">Sign in cu succes!</string>
+    <string name="no_sign_in">Nu s-a putut face Sign In!</string>
+    <string name="sign_out">Sign Out cu succes!</string>
+    <string name="chat_room">Chat room:</string>
+    <string name="titlu_despre">Aplicație mobilă de comunicare mesaje</string>
+    <string name="autor">Aplicatie realizata de </string>
+    <string name="continut_despre">Aplicația de față are drept scop oferirea membrilor unei companii
+        de dimensiuni mici posibilitatea de a comunica între ei într-un mod cât mai simplu si eficient
+        în ceea ce privește dezvoltarea de proiecte pe echipe formate din membrii aflați la diferite
+        puncte geografice.</string>
+</resources>
